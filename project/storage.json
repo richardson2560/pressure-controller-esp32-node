@@ -1,0 +1,5 @@
+{
+    "SYSTEM_NAME": "Nodo02",
+    "SYSTEM_ID": 2,
+    "HARDWARE_CONFIGURATION.uart.1.baudrate": 9600
+}
